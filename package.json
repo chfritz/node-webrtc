@@ -1,20 +1,19 @@
 {
-  "name": "wrtc",
-  "private": true,
+  "name": "wrtc-tmp",
   "description": "Standards-compliant WebRTC implementation for Node",
   "keywords": [
     "webrtc",
     "p2p",
     "peer"
   ],
-  "version": "0.4.7",
+  "version": "0.4.8",
   "author": "Alan K <ack@modeswitch.org> (http://blog.modeswitch.org)",
-  "homepage": "https://github.com/node-webrtc/node-webrtc",
-  "bugs": "https://github.com/node-webrtc/node-webrtc/issues",
+  "homepage": "https://github.com/chfritz/node-webrtc",
+  "bugs": "https://github.com/chfritz/node-webrtc/issues",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "http://github.com/node-webrtc/node-webrtc.git"
+    "url": "http://github.com/chfritz/node-webrtc.git"
   },
   "main": "lib/index.js",
   "browser": "lib/browser.js",
